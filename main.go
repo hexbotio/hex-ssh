@@ -5,7 +5,7 @@ import (
 	"time"
 
 	"github.com/hashicorp/go-plugin"
-	"github.com/hexbotio/hex-plugin"
+	"github.com/mmcquillan/hex-plugin"
 	"golang.org/x/crypto/ssh"
 )
 
